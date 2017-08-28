@@ -7,7 +7,7 @@ import (
 
 	"github.com/gernest/mention"
 	"github.com/google/go-github/github"
-	"github.com/mvdan/xurls"
+	"mvdan.cc/xurls"
 	"golang.org/x/oauth2"
 )
 

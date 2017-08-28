@@ -7,7 +7,7 @@ import (
 	"testing"
 
 	"github.com/gernest/mention"
-	"github.com/mvdan/xurls"
+	"mvdan.cc/xurls"
 )
 
 func TestTweetHashTag(t *testing.T) {
